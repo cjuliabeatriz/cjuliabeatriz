@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Olá, eu sou a Julia Beatriz Cocev Stricagnolo</h1>
 
-<p align="center">
+<p align="left">
   💻 Começando no mercado de trabalho na área de <strong>tecnologia</strong> e <strong>análise de dados</strong><br>
   🌱 Apaixonada por <strong>tecnologia, dados e administração</strong><br>
   🚀 Sempre aprendendo novas linguagens e ferramentas
