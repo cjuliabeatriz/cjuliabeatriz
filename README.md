@@ -6,7 +6,7 @@
   💻 Começando no mercado de trabalho na área de <strong>tecnologia</strong> e <strong>análise de dados</strong><br>
   🌱 Apaixonada por <strong>tecnologia, dados e administração</strong><br>
   🚀 Sempre aprendendo novas linguagens e ferramentas
-</p>#
+</p>
 
 ---
 
@@ -16,7 +16,7 @@
 - 💻 Aprendendo **JavaScript** e aprimorando meu conhecimento em **HTML**  
 - 🎨 Uso o **Canva** com frequência para apresentações  
 - 🧩 Programando e estudando no **VS Code**  
-- ✨ Buscando constantemente evoluir e crescer profissionalmente  #
+- ✨ Buscando constantemente evoluir e crescer profissionalmente  
 
 ---
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dados-6f42c1?style=for-the-badge"/>
-</p>#
+</p>
 
 ---
 
@@ -49,6 +49,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
 
+![](https://tenor.com/view/black-cat-mixflavor-wowo-kitten-gif-26401903)
 
 <!--
 **cjuliabeatriz/cjuliabeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
